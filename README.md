@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batıkan Yeni</h1>
-<p>-Hello! I'm Eskişehir Technical University 4th grade Computer Engineering student Batıkan Yeni. During my education I mostly
+<p>-Hello! I'm Eskişehir Technical University Computer Engineering graduate Batıkan Yeni. During my education I mostly
 had experience in Java, Javascript and Python. I have participated in team and personal projects using web development
 technologies like Spring-Boot,React and Angular. I have learned how to apply Design patterns and create object orianted apps.
 In my second year in University I went to Poland with Erasmus project and met with many people from different backgrounds
